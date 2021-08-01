@@ -1,7 +1,5 @@
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
-    System.out.println("Good morning!"); 
-    System.out.println("Added from github edit.."); 
+    System.out.println("Hello world!"); 
   }
 }
